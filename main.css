@@ -29,7 +29,7 @@ nav div a, nav div a svg {
 nav div a:hover, nav div a:hover svg {
     color: tomato;
     fill: tomato;
-    transition: 1s all;
+    transition: all 1s ease;
 }
 
 nav > div
